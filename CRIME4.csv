@@ -1,0 +1,36 @@
+CREATEDATE,CREATEDBY,DIV_CODE,DIVISION,GEOGID,REG_CODE,REGION,Female2011,Geometry,HS2011,Male2011,PCVac2011,PPOcc2011,Total2011,Unocc2011,Vacant2011
+30-11-2013,Paul Creaner,225,Roscommon/Longford,K0225,2,Western Region,"47,534.00",Polygon,"47,360.00","48,625.00",23.2,"35,623.00","96,159.00","11,737.00","10,994.00"
+30-11-2013,Paul Creaner,224,Mayo,K0224,2,Western Region,"65,504.00",Polygon,"66,051.00","65,701.00",24.7,"48,472.00",NA,"17,579.00","16,317.00"
+30-11-2013,Paul Creaner,222,Clare,K0222,2,Western Region,"54,506.00",Polygon,"52,722.00","53,964.00",22.3,"40,038.00",NA,"12,684.00","11,734.00"
+30-11-2013,Paul Creaner,321,Limerick,K0321,3,Southern Region,NA,Polygon,"85,585.00",NA,12,"73,336.00",NA,"12,249.00","10,275.00"
+30-11-2013,Paul Creaner,320,Kerry,K0320,3,Southern Region,"70,912.00",NA,"73,049.00","70,615.00",26.6,NA,NA,"20,705.00","19,445.00"
+30-11-2013,Paul Creaner,NA,Cork West,K0319,3,Southern Region,"64,516.00",Polygon,"61,241.00","65,168.00",22.7,"46,198.00",NA,"15,043.00","13,912.00"
+30-11-2013,Paul Creaner,318,Cork North,K0318,NA,Southern Region,"74,584.00",Polygon,"64,782.00","74,079.00",15.1,"53,800.00",NA,"10,982.00","9,780.00"
+30-11-2013,Paul Creaner,317,Cork City,K0317,NA,Southern Region,NA,Polygon,NA,NA,9.6,"90,804.00",NA,"13,208.00","9,996.00"
+30-11-2013,Paul Creaner,517,Wexford,K0517,NA,South Eastern Region,"73,532.00",Polygon,"68,243.00","72,009.00",21,"52,667.00",NA,"15,576.00","14,340.00"
+30-11-2013,Paul Creaner,516,Waterford,K0516,5,South Eastern Region,"59,766.00",Polygon,"54,362.00","58,691.00",16.3,"44,206.00",NA,"10,156.00","8,863.00"
+30-11-2013,Paul Creaner,515,Tipperary,K0515,5,South Eastern Region,"79,183.00",Polygon,"68,994.00","79,796.00",13.4,"58,591.00",NA,"10,403.00","9,271.00"
+30-11-2013,Paul Creaner,514,Kilkenny/Carlow,K0514,5,South Eastern Region,"73,612.00",Polygon,"61,065.00","73,982.00",12.6,"52,277.00",NA,"8,788.00","7,664.00"
+30-11-2013,Paul Creaner,NA,Sligo/Leitrim,K0114,1,Northern Region,"48,956.00",Polygon,"51,613.00","48,923.00",25.1,"37,386.00","97,879.00","14,227.00","12,966.00"
+30-11-2013,Paul Creaner,113,Louth,K0113,1,Northern Region,"63,624.00",NA,"52,185.00","62,183.00",12.1,"44,979.00",NA,"7,206.00","6,294.00"
+30-11-2013,Paul Creaner,112,Donegal,NA,1,Northern Region,"80,614.00",NA,"83,918.00","80,523.00",28.6,"58,300.00",NA,"25,618.00","23,996.00"
+30-11-2013,Paul Creaner,111,Cavan/Monaghan,NA,1,Northern Region,"66,223.00",NA,"58,768.00","67,460.00",18.2,"47,090.00",NA,"11,678.00","10,671.00"
+30-11-2013,Paul Creaner,NA,Wicklow,NA,4,Eastern Region,"69,365.00",Polygon,"54,533.00","67,760.00",9.9,"47,873.00",NA,"6,660.00","5,395.00"
+30-11-2013,Paul Creaner,NA,Westmeath,K0404,4,Eastern Region,"46,201.00",Polygon,"38,919.00","45,447.00",13.2,"32,857.00","91,648.00","6,062.00","5,151.00"
+30-11-2013,Paul Creaner,403,Meath,K0403,4,Eastern Region,"90,705.00",Polygon,"68,679.00","90,462.00",8.9,"61,148.00",NA,"7,531.00","6,110.00"
+30-11-2013,Paul Creaner,402,Laois/Offaly,K0402,4,Eastern Region,"75,400.00",Polygon,"61,172.00","76,327.00",12.2,"52,661.00",NA,"8,511.00","7,453.00"
+30-11-2013,Paul Creaner,401,Kildare,K0401,4,Eastern Region,NA,Polygon,"78,642.00",NA,8,"70,644.00",NA,"7,998.00","6,294.00"
+30-11-2013,Paul Creaner,610,DMR West,K0610,6,Dublin Metropolitan Region,NA,Polygon,NA,NA,6,NA,NA,"9,125.00","6,680.00"
+30-11-2013,Paul Creaner,608,DMR South Central,K0608,6,Dublin Metropolitan Region,"63,375.00",Polygon,"62,729.00","60,875.00",12.6,"52,312.00",NA,"10,417.00","7,890.00"
+30-11-2013,Paul Creaner,609,DMR South,K0609,6,Dublin Metropolitan Region,NA,Polygon,"98,300.00",NA,7,"89,042.00",NA,"9,258.00","6,911.00"
+30-11-2013,Paul Creaner,NA,DMR North Central,K0606,6,Dublin Metropolitan Region,"42,281.00",Polygon,"43,240.00","44,383.00",14.7,"35,647.00","86,664.00","7,593.00","6,346.00"
+30-11-2013,Paul Creaner,NA,DMR North,K0607,6,Dublin Metropolitan Region,NA,Polygon,NA,NA,7.3,NA,NA,"12,896.00","9,651.00"
+30-11-2013,Paul Creaner,605,DMR East,K0605,6,Dublin Metropolitan Region,"99,513.00",Polygon,"79,697.00","91,205.00",7.8,"70,764.00",NA,"8,933.00","6,229.00"
+30-11-2013,Paul Creaner,223,Galway,K0223,2,Western Region,NA,Polygon,NA,NA,16.9,"89,385.00",NA,"21,911.00","18,823.00"
+,,403,,,6,,,polygon,,,,,,"10,156.00",
+,,114,,,4,,,polygon,,,,,,"10,403.00",
+,,318,,,,,,polygon,,,,,,"8,788.00",
+,,317,,,,,,,,,,,,"14,227.00",
+,,113,,,,,,,,,,,,,
+,,516,,,,,,,,,,,,,
+,,111,,,,,,,,,,,,,
